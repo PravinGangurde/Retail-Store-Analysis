@@ -81,3 +81,12 @@ This Power BI project demonstrates practical skills in:
 - Analytical Thinking
 - Storytelling with Data
 - Delivering Business Insights through BI Tools
+
+  ---
+
+  ## 👤 Author
+**Pravi Gangurde**  
+📧 pravingangurde3066@gmail.com  
+[🔗 Portfolio / LinkedIn
+](https://www.linkedin.com/in/pravin-gangurde-834947276/)
+
